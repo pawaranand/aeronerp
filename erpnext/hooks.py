@@ -29,7 +29,7 @@ email_append_to = ["Job Applicant", "Opportunity", "Issue"]
 
 website_context = {
 	"favicon": 	"/assets/erpnext/images/favicon.png",
-	"splash_image": "/assets/erpnext/images/splash.png"
+	"splash_image": "/assets/erpnext/images/aeronerp.png"
 }
 
 website_route_rules = [
@@ -95,8 +95,8 @@ scheduler_events = {
 }
 
 default_mail_footer = """<div style="padding: 15px; text-align: center;">
-	<a href="https://erpnext.com?source=via_email_footer" target="_blank" style="color: #8d99a6;">
-		Sent via ERPNext
+	<a href="http://aeronsolution.com/"  target="_blank" style="color: #8d99a6;">
+		Sent via AeronERP
 	</a>
 </div>"""
 
